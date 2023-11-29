@@ -2,7 +2,8 @@
 
 [![Whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=Black)](https://web.whatsapp.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=Black)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/elo%C3%A1-martins-barreiros-14b628277/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elo%C3%A1-martins-barreiros-14b628277/)
+
 
 ![Eloá Martins](https://github-readme-stats.vercel.app/api?username=eloa130906&show_icons=true&theme=radical)
 
