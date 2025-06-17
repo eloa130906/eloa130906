@@ -18,4 +18,4 @@
     
 </div>  
 <br>
-Atualmente, cursando o Ensino Médio com Técnico em Desenvolvimento de Sistemas. 😊
+Atualmente, cursando o Ensino Superior em Analise em Desenvolvimento de Sistemas. 😊
